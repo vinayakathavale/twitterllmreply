@@ -1,0 +1,11 @@
+{
+  "name": "twitter-gpt-reply",
+  "version": "1.0.0",
+  "description": "Chrome extension for generating GPT-4 powered Twitter replies",
+  "scripts": {
+    "generate-icons": "node generate-icons.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.1"
+  }
+} 
